@@ -1,4 +1,4 @@
-A memory game to match same tiles and win NFTs as reward. Inspired by DappUniveristy, implemented the tokens as ERC721 tokens using Truffle, Ganache as the personal blockchain and a MetaMask wallet. 
+A memory game to match same tiles and win NFTs as reward. Inspired by DappUniversity, implemented the tokens as ERC721 tokens in Solidity using Truffle, Ganache as the personal blockchain and a MetaMask wallet. 
 
 ## Demonstration 
 
